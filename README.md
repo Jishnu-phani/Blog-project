@@ -9,3 +9,5 @@ https://api.npoint.io/a05aec98278e1703a81d
 
 
 [Clean Blog - Start Bootstrap Theme - Google Chrome 2023-08-03 19-27-33.zip](https://github.com/Jishnu-phani/Blog-project/files/12327164/Clean.Blog.-.Start.Bootstrap.Theme.-.Google.Chrome.2023-08-03.19-27-33.zip)
+
+download the above zip file and have a look at how the website looks like
