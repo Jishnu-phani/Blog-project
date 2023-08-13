@@ -1,5 +1,6 @@
-In this project I have used concepts of html, css, js mainly by using bootstrap. 
+This project is a website containing blog posts
 
+In this project I have used concepts of html, css, js mainly by using bootstrap. <br>
 I have used flask and jinja which are python libraries to run the html and link all the files together.<br> 
 (Install the python module named flask to be able to run the project)
 
